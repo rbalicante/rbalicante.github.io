@@ -99,42 +99,6 @@ $(function() {
         $('.carousel').addClass('slide');
     }
 
-    //product carousel (以0为开始)
-    $('.product_1').click(function(){
-        del_slide();
-        $('.carousel').carousel(0);
-        add_slide();
-        open_layout();
-    });
-
-    $('.product_2').click(function(){
-        del_slide();
-        $('.carousel').carousel(1);
-        add_slide();
-        open_layout();
-    });
-
-    $('.product_3').click(function(){
-        del_slide();
-        $('.carousel').carousel(2);
-        add_slide();
-        open_layout();
-    });
-
-    $('.product_4').click(function(){
-        del_slide();
-        $('.carousel').carousel(3);
-        add_slide();
-        open_layout();
-    });
-
-    $('.product_5').click(function(){
-        del_slide();
-        $('.carousel').carousel(4);
-        add_slide();
-        open_layout();
-    });
-
     $('.btn_more').click(function(){
         del_slide();
         $('.carousel').carousel(5);
