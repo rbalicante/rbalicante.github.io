@@ -1,1 +1,2 @@
-Raymund Balicante Resume!!!
+### Resume
+*[Raymund Balicante Resume](http://rbalicante.github.io/)*
